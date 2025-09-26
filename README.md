@@ -1,6 +1,8 @@
 # Docker Admin Panel
 
-A T3 stack application (TypeScript, Next.js, tRPC) for managing Docker containers and images with folder scanning capabilities.
+A T3 stack application (TypeScript, Next.js, tRPC) for managing Docker containers and images with folder scanning capabilities. Fully coded by Amazon Q
+
+![conversation w q](img/convo.png)
 
 ## Features
 
